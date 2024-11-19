@@ -4,6 +4,17 @@ Kütüphane Yönetim Sistemi, bir kütüphanenin kitaplarını, kullanıcıları
 
 ---
 
+
+## 🚀 Başlangıç
+
+### Projeyi Kendi Makinenize Kurmak İçin:
+
+1. **Depoyu Klonlayın**:
+   ```bash
+   git clone https://github.com/kullanici_adi/kutuphane-yonetim-sistemi.git
+   
+   ---
+
 ## 📖 Proje Özellikleri
 
 - **Kitap Yönetimi**: Kitapların eklenmesi, düzenlenmesi, silinmesi ve arama işlemleri yapılabilir.
@@ -13,12 +24,4 @@ Kütüphane Yönetim Sistemi, bir kütüphanenin kitaplarını, kullanıcıları
 - **Ödünç Geçmişi**: Kitapların geçmiş ödünç ve iade kayıtları takip edilebilir.
 - **Raporlama**: Kitaplar ve kullanıcılar hakkında raporlar oluşturulabilir.
 
----
 
-## 🚀 Başlangıç
-
-### Projeyi Kendi Makinenize Kurmak İçin:
-
-1. **Depoyu Klonlayın**:
-   ```bash
-   git clone https://github.com/kullanici_adi/kutuphane-yonetim-sistemi.git
